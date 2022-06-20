@@ -6,6 +6,8 @@
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiuuon)](https://github.com/kiuuon/github-readme-stats)
+
 <!--
 **kiuuon/kiuuon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
