@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiuuon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ccp0209)](https://solved.ac/ccp0209)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiuuon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com) <a href="https://www.instagram.com/kiuuon/"> <img src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/kiuuon/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ccp0209)](https://solved.ac/ccp0209)
   
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiuuon&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/> 
 
